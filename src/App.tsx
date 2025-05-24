@@ -1,4 +1,3 @@
-import React from 'react';
 import { ShoppingBag, Shield, Trophy, Heart, ChevronRight, Search, Menu } from 'lucide-react';
 
 function App() {
